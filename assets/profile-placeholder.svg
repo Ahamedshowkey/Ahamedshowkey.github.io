@@ -1,0 +1,13 @@
+<svg width="900" height="1100" viewBox="0 0 900 1100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="1100" rx="48" fill="#081525"/>
+  <circle cx="222" cy="194" r="190" fill="#68E1FD" fill-opacity="0.22"/>
+  <circle cx="760" cy="284" r="260" fill="#8B5CF6" fill-opacity="0.2"/>
+  <circle cx="470" cy="930" r="310" fill="#23D18B" fill-opacity="0.13"/>
+  <path d="M84 886C208 784 325 736 435 742C544 748 668 809 816 925" stroke="white" stroke-opacity="0.13" stroke-width="2"/>
+  <path d="M115 804C232 711 343 668 448 674C553 680 668 735 784 837" stroke="white" stroke-opacity="0.12" stroke-width="2"/>
+  <rect x="188" y="196" width="524" height="708" rx="50" fill="white" fill-opacity="0.08" stroke="white" stroke-opacity="0.16" stroke-width="2"/>
+  <circle cx="450" cy="407" r="128" fill="#68E1FD" fill-opacity="0.22" stroke="white" stroke-opacity="0.18" stroke-width="2"/>
+  <path d="M241 792C267 665 347 593 450 593C553 593 633 665 659 792" fill="#8B5CF6" fill-opacity="0.22" stroke="white" stroke-opacity="0.16" stroke-width="2"/>
+  <text x="450" y="974" fill="white" fill-opacity="0.78" font-family="Inter, Arial, sans-serif" font-size="40" font-weight="800" text-anchor="middle">PROFILE IMAGE SPACE</text>
+  <text x="450" y="1028" fill="white" fill-opacity="0.52" font-family="Inter, Arial, sans-serif" font-size="25" font-weight="600" text-anchor="middle">Replace this SVG with your photo</text>
+</svg>
